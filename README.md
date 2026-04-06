@@ -22,7 +22,7 @@ I am an indie developer passionate about building clean, fast, and user-friendly
 
 All of my active projects, social media profiles, and developer links are centralized in one fast, minimalist page. 
 
-🔗 **[Visit the Live FluxyVista Hub](https://fluxyvista.github.io/voktrum-links)** *(Not: Kendi GitHub Pages linkini buraya yazarsın)*
+🔗 **[Visit the Live FluxyVista Hub](https://fluxyvista.github.io/voktrum-links)**
 
 ---
 
